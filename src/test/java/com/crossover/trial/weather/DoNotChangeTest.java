@@ -30,7 +30,7 @@ public class DoNotChangeTest {
     private static final String POM_ARTIFACT_ID = "weather";
 
     /** required version number */
-    private static final String POM_VERSION = "1.1.0";
+    private static final String POM_VERSION = "1.2.0";
 
     private WeatherCollectorEndpoint collector;
 
